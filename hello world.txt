@@ -1,8 +1,8 @@
-print("hello world!");
-print("hello world class");
-print("hello just hello");
-print("hello my dear friend");
-print("glad to see you");
+print("hello world!;");
+print("hello world class;");
+print("hello just hello;");
+print("hello my dear friend;");
+print("glad to see you;");
 
 
 
